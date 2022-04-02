@@ -17,6 +17,7 @@
 		4CEF3FFE27F8BBC6002FDA6A /* todolistTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CEF3FFD27F8BBC6002FDA6A /* todolistTests.m */; };
 		4CEF400827F8BBC6002FDA6A /* todolistUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CEF400727F8BBC6002FDA6A /* todolistUITests.m */; };
 		4CEF400A27F8BBC6002FDA6A /* todolistUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CEF400927F8BBC6002FDA6A /* todolistUITestsLaunchTests.m */; };
+		4CEF401B27F8C207002FDA6A /* TodoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CEF401A27F8C207002FDA6A /* TodoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		4CEF400327F8BBC6002FDA6A /* todolistUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = todolistUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CEF400727F8BBC6002FDA6A /* todolistUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = todolistUITests.m; sourceTree = "<group>"; };
 		4CEF400927F8BBC6002FDA6A /* todolistUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = todolistUITestsLaunchTests.m; sourceTree = "<group>"; };
+		4CEF401927F8C207002FDA6A /* TodoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TodoViewController.h; sourceTree = "<group>"; };
+		4CEF401A27F8C207002FDA6A /* TodoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TodoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				4CEF3FE427F8BBC4002FDA6A /* SceneDelegate.h */,
 				4CEF3FE527F8BBC4002FDA6A /* SceneDelegate.m */,
 				4CEF3FE727F8BBC4002FDA6A /* ViewController.h */,
+				4CEF401927F8C207002FDA6A /* TodoViewController.h */,
+				4CEF401A27F8C207002FDA6A /* TodoViewController.m */,
 				4CEF3FE827F8BBC4002FDA6A /* ViewController.m */,
 				4CEF3FEA27F8BBC4002FDA6A /* Main.storyboard */,
 				4CEF3FED27F8BBC6002FDA6A /* Assets.xcassets */,
@@ -269,6 +274,7 @@
 				4CEF3FE927F8BBC4002FDA6A /* ViewController.m in Sources */,
 				4CEF3FE327F8BBC4002FDA6A /* AppDelegate.m in Sources */,
 				4CEF3FF427F8BBC6002FDA6A /* main.m in Sources */,
+				4CEF401B27F8C207002FDA6A /* TodoViewController.m in Sources */,
 				4CEF3FE627F8BBC4002FDA6A /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
